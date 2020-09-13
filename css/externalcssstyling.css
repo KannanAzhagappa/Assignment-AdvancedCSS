@@ -1,3 +1,21 @@
+#no-styletable th {
+  border: 0px;
+  padding: 0px;
+  text-align: auto;
+  border-spacing: 0px;
+  background-color:white;
+  color: black;
+}
+
+#no-styletable td {
+  border: 0px;
+  padding: 0px;
+  text-align: auto;
+  border-spacing: 0px;
+  background-color:white;
+  color: black;
+}
+
 th {
   border: 1px solid black;
   padding: 5px;
